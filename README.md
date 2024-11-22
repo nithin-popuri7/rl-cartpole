@@ -17,8 +17,8 @@ T**he action is a ndarray with shape (1,) which can take values {0, 1} indicatin
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING:
 
 ```
-Developed By: G Venkata Pavan Kumar
-Reg No.: 212221240013
+Developed By:P.Siva Naga Nithin
+Reg No.: 212221240037
 ```
 ```py
 def create_bins(n_bins=g_bins, n_dim=4):
